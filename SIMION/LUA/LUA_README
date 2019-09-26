@@ -1,0 +1,8 @@
+This folder contains LUA files, which are user programs used to control ion optics simulations in SIMION 8.1, (SIS Ltd.).
+
+Files used are presented alongside the submission of my thesis in September 2019.
+
+Files presented are (c) James Hood, Newcastle University, 2019
+
+Contents:
+ ESA_Transfer.lua - File used to control ion transfer simulations
